@@ -1,0 +1,209 @@
+/* Humanités Numériques Paris 8 — Custom Styles */
+
+/* ── Color palette ── */
+:root {
+  --hn-blue: #1a3a6b;
+  --hn-red: #c0392b;
+  --hn-gold: #e8a020;
+  --hn-light: #f8f9fa;
+  --hn-dark: #212529;
+}
+
+/* ── Navbar ── */
+.navbar {
+  background-color: var(--hn-blue) !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--hn-gold) !important;
+}
+
+/* ── Hero banner ── */
+.hero-banner {
+  background: linear-gradient(135deg, var(--hn-blue) 0%, #2c5282 60%, #2d6a4f 100%);
+  color: white;
+  padding: 5rem 2rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.hero-banner h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: white;
+  border-bottom: none;
+}
+
+.hero-banner p {
+  font-size: 1.15rem;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  opacity: 0.92;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+}
+
+/* ── Cards ── */
+.card {
+  border: none;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.13);
+}
+
+.card-body h3, .card-body h4 {
+  color: var(--hn-blue);
+  border-bottom: 2px solid var(--hn-gold);
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
+/* ── Section cards (homepage) ── */
+.section-cards {
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+/* ── News cards ── */
+.news-card {
+  border-left: 4px solid var(--hn-gold);
+}
+
+/* ── Stats section ── */
+.stats-grid {
+  background: var(--hn-light);
+  border-radius: 0.75rem;
+  padding: 2rem 1rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.stat-item {
+  padding: 1rem;
+}
+
+.stat-number {
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: var(--hn-blue);
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.3rem;
+}
+
+/* ── Team cards ── */
+.team-card {
+  border-top: 4px solid var(--hn-blue);
+}
+
+.team-card .card-body h3,
+.team-card .card-body h4 {
+  border-bottom: none;
+  color: var(--hn-blue);
+}
+
+/* ── Footer ── */
+.nav-footer {
+  background-color: var(--hn-blue);
+  color: rgba(255, 255, 255, 0.85);
+  padding: 1.5rem 0;
+}
+
+.nav-footer a {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.nav-footer a:hover {
+  color: var(--hn-gold) !important;
+}
+
+/* ── Social links ── */
+.social-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+.social-links li a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--hn-light);
+  border-radius: 2rem;
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--hn-blue);
+  transition: background 0.2s ease;
+}
+
+.social-links li a:hover {
+  background: var(--hn-blue);
+  color: #fff;
+}
+
+/* ── Buttons ── */
+.btn-primary {
+  background-color: var(--hn-blue);
+  border-color: var(--hn-blue);
+}
+
+.btn-primary:hover {
+  background-color: #14305a;
+  border-color: #14305a;
+}
+
+.btn-outline-primary {
+  color: var(--hn-blue);
+  border-color: var(--hn-blue);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--hn-blue);
+  color: #fff;
+}
+
+/* ── Typography ── */
+h1, h2, h3 {
+  color: var(--hn-blue);
+}
+
+/* ── Callouts ── */
+.callout {
+  border-radius: 0.5rem;
+}
+
+/* ── Responsive adjustments ── */
+@media (max-width: 768px) {
+  .hero-banner h2 {
+    font-size: 1.8rem;
+  }
+
+  .stat-number {
+    font-size: 2rem;
+  }
+}

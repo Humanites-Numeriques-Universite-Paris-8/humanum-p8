@@ -1,0 +1,24 @@
+---
+title: "Accessibilité"
+toc: false
+---
+
+## Déclaration d'accessibilité
+
+L'Université Paris 8 Vincennes-Saint-Denis s'engage à rendre son site internet accessible conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005.
+
+Cette déclaration d'accessibilité s'applique au site **humanum-p8.fr**.
+
+## État de conformité
+
+Ce site est **partiellement conforme** avec le référentiel général d'amélioration de l'accessibilité (RGAA) version 4.1. Des travaux sont en cours pour améliorer la conformité.
+
+## Retour d'information et contact
+
+Si vous n'arrivez pas à accéder à un contenu ou à un service, vous pouvez contacter le responsable du site pour être orienté vers une alternative accessible ou obtenir le contenu sous une autre forme :
+
+📧 [accessibilite@univ-paris8.fr](mailto:accessibilite@univ-paris8.fr)
+
+## Voie de recours
+
+Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu ou une fonctionnalité du site, que vous nous le signalez et que vous n'obtenez pas de réponse de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au **Défenseur des droits** : [defenseurdesdroits.fr](https://www.defenseurdesdroits.fr){target="_blank"}.

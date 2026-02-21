@@ -1,0 +1,86 @@
+---
+title: "Actualités"
+subtitle: "Événements, annonces et publications du département"
+toc: false
+---
+
+Retrouvez ici toutes les actualités du département Humanités Numériques : colloques, journées d'étude, soutenances de thèses, nouvelles formations et publications.
+
+---
+
+## Événements à venir
+
+### 🗓️ Colloque international — Humanités Numériques 2025
+**15–17 avril 2025 | Université Paris 8, Amphithéâtre X**
+
+Le département organise son colloque annuel sur le thème **« Intelligence artificielle et pratiques humanistes : nouvelles frontières »**. L'événement réunira des chercheurs nationaux et internationaux autour de trois grands axes :
+
+- IA générative et création artistique
+- Analyse computationnelle de grands corpus
+- Éthique et enjeux sociétaux de l'IA
+
+📋 [Programme complet (PDF)](#) | 📝 [Inscription gratuite](#)
+
+---
+
+### 🗓️ Séminaire mensuel — Humanités Numériques
+**Chaque premier jeudi du mois | 17h–19h | Salle B142**
+
+Le séminaire de recherche du département accueille des intervenants invités pour des présentations et discussions autour des travaux en cours.
+
+**Prochaines séances :**
+
+| Date | Intervenant(e) | Titre |
+|------|----------------|-------|
+| 6 mars 2025 | Dr. Amina Benali (CNRS) | Corpus arabes et traitement automatique du langage |
+| 3 avril 2025 | Prof. Jan Müller (Humboldt-Universität) | Digital Humanities in Germany: landscape and perspectives |
+| 8 mai 2025 | Dr. Fátima Rodrigues (Universidade Nova de Lisboa) | Patrimoine numérique lusophone |
+
+---
+
+### 🗓️ Journée portes ouvertes
+**22 mars 2025 | 10h–17h | Campus de Saint-Denis**
+
+Venez découvrir les formations du département lors de la journée portes ouvertes de l'Université Paris 8. Au programme : présentations des licences et masters, rencontres avec l'équipe pédagogique et les étudiants, démonstrations de projets.
+
+---
+
+## Annonces récentes
+
+### 📢 Nouveau master — Intelligence Artificielle et Humanités (rentrée 2025)
+
+À partir de la rentrée 2025, le département ouvre un nouveau parcours de master intitulé **« Intelligence Artificielle et Humanités »**, en partenariat avec le département d'Informatique de Paris 8. Ce parcours formera des professionnels capables de concevoir et évaluer des systèmes d'IA dans des contextes culturels et sociaux.
+
+*Publié le 15 janvier 2025*
+
+---
+
+### 📢 Prix de thèse — Félicitations à Yasmine Ouali
+
+Yasmine Ouali, doctorante au département, a reçu le **Prix de thèse de l'Association Francophone des Humanités Numériques (AFHD)** pour sa thèse intitulée *« Cartographies sensibles : la ville numérique entre données et récits »*.
+
+*Publié le 10 décembre 2024*
+
+---
+
+### 📢 Publication — Nouveau numéro de la Revue d'Humanités Numériques
+
+Le numéro 5(2) de la *Revue d'Humanités Numériques*, co-édité par nos collègues Marie Dupont et Théo Bernard, est désormais disponible en libre accès. Ce numéro thématique porte sur **« Les humanités numériques à l'ère de l'IA générative »**.
+
+[Lire le numéro →](https://revue-humanites-numeriques.org){target="_blank"}
+
+*Publié le 1er décembre 2024*
+
+---
+
+### 📢 Partenariat — Alliance HN Europe
+
+Le département rejoint l'**Alliance HN Europe**, un réseau de 15 universités européennes engagées dans le développement et la structuration des humanités numériques comme discipline académique à part entière.
+
+*Publié le 20 novembre 2024*
+
+---
+
+## Archives
+
+Pour consulter les actualités antérieures, [contactez le département](contact.qmd) ou consultez le [dépôt GitHub](https://github.com/Humanites-Numeriques-Universite-Paris-8/humanum-p8){target="_blank"}.

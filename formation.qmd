@@ -1,0 +1,101 @@
+---
+title: "Formations"
+subtitle: "Des parcours innovants aux croisements des humanités et du numérique"
+toc: true
+toc-title: "Sur cette page"
+---
+
+Le département Humanités Numériques propose des formations du niveau licence au master, articulant sciences humaines et sociales, informatique, arts et culture numériques. Ces formations préparent aux métiers émergents du secteur numérique tout en cultivant une réflexion critique sur les enjeux contemporains du numérique.
+
+---
+
+## Licence
+
+### Licence Humanités Numériques (L1–L3)
+
+La Licence Humanités Numériques offre une formation pluridisciplinaire combinant :
+
+- **Humanités** : littérature, histoire, philosophie, linguistique
+- **Numérique** : programmation (Python, R), traitement de données, web
+- **Création** : édition numérique, design, arts interactifs
+
+**Durée :** 3 ans (180 ECTS)  
+**Accès :** Parcoursup — ouverte à tous les bacheliers
+
+::: {.callout-note}
+## Débouchés professionnels
+Chargé de médiation numérique, webmaster éditorial, data analyst en secteur culturel, développeur web junior, documentaliste numérique.
+:::
+
+---
+
+## Master
+
+### Master Humanités Numériques (M1–M2)
+
+Le Master Humanités Numériques approfondit les compétences en ingénierie des données culturelles, en édition numérique et en humanités computationnelles.
+
+**Parcours disponibles :**
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+#### Parcours 1 — Édition et Médiation Numériques
+
+Formation aux métiers de l'édition numérique, de la valorisation du patrimoine et de la médiation culturelle en ligne.
+
+- Publication numérique (EPUB, TEI, XML)
+- Gestion de projets culturels numériques
+- Humanités spatiales et cartographie
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+#### Parcours 2 — Humanités Computationnelles
+
+Formation aux méthodes quantitatives et computationnelles appliquées aux corpus textuels, visuels et sonores.
+
+- Traitement automatique du langage (TAL)
+- Analyse de données (Python, R)
+- Fouille de textes et visualisation
+:::
+:::
+:::
+
+:::
+
+**Durée :** 2 ans (120 ECTS)  
+**Accès :** Mon Master — sur dossier et entretien
+
+::: {.callout-note}
+## Débouchés professionnels
+Ingénieur en humanités numériques, data scientist en secteur culturel, chercheur, responsable de projets numériques, consultant en transformation numérique.
+:::
+
+---
+
+## Formation continue et professionnelle
+
+Le département propose également des formations courtes et certifiantes à destination des professionnels :
+
+| Formation | Durée | Public cible |
+|-----------|-------|--------------|
+| Introduction aux humanités numériques | 3 jours | Professionnels des secteurs culturels |
+| Traitement de données avec Python | 5 jours | Chercheurs et documentalistes |
+| Édition numérique et TEI | 2 jours | Éditeurs et bibliothécaires |
+| Humanités spatiales et SIG | 3 jours | Géographes et historiens |
+
+---
+
+## Modalités d'inscription
+
+Pour plus d'informations sur les conditions d'accès et les inscriptions :
+
+- **Licence :** [Parcoursup](https://www.parcoursup.fr){target="_blank"}
+- **Master :** [Mon Master](https://www.monmaster.gouv.fr){target="_blank"}
+- **Formation continue :** [Contacter le département](contact.qmd)
