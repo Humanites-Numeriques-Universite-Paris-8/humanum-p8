@@ -1,0 +1,172 @@
+---
+title: "Équipe"
+subtitle: "Enseignants-chercheurs, ingénieurs et chercheurs associés"
+toc: true
+toc-title: "Sur cette page"
+---
+
+Le département Humanités Numériques réunit une équipe pluridisciplinaire d'enseignants-chercheurs dont les spécialités couvrent les lettres, la linguistique, l'informatique, la philosophie, la sociologie et les arts.
+
+---
+
+## Direction du département
+
+::: {.grid .team-grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .team-card}
+::: {.card-body}
+### Pr. Marie Dupont
+**Directrice du département**
+
+Professeure en humanités numériques, spécialiste d'édition critique numérique et de traitement de corpus littéraires. Responsable du projet CorpusHN.
+
+*Domaines :* Édition numérique, TEI, littérature française
+
+✉️ [marie.dupont@univ-paris8.fr](mailto:marie.dupont@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .team-card}
+::: {.card-body}
+### Dr. Théo Bernard
+**Directeur adjoint**
+
+Maître de conférences en linguistique computationnelle. Co-responsable du master Humanités Numériques, parcours Humanités Computationnelles.
+
+*Domaines :* TALN, analyse du discours, Python
+
+✉️ [theo.bernard@univ-paris8.fr](mailto:theo.bernard@univ-paris8.fr)
+:::
+:::
+:::
+
+:::
+
+---
+
+## Enseignants-chercheurs
+
+::: {.grid .team-grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .team-card}
+::: {.card-body}
+### Dr. Claire Legrand
+Maîtresse de conférences
+
+*Spécialité :* Édition numérique, patrimoine textuel, archives numériques
+
+✉️ [c.legrand@univ-paris8.fr](mailto:c.legrand@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .team-card}
+::: {.card-body}
+### Pr. Antoine Moreau
+Professeur
+
+*Spécialité :* Littératures numériques, arts interactifs, esthétique du code
+
+✉️ [a.moreau@univ-paris8.fr](mailto:a.moreau@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .team-card}
+::: {.card-body}
+### Dr. Sophie Martin
+Maîtresse de conférences
+
+*Spécialité :* Sociologie du numérique, usages des technologies, cultures participatives
+
+✉️ [s.martin@univ-paris8.fr](mailto:s.martin@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .team-card}
+::: {.card-body}
+### Dr. Éric Rousseau
+Maître de conférences
+
+*Spécialité :* Intelligence artificielle, éthique algorithmique, philosophie du numérique
+
+✉️ [e.rousseau@univ-paris8.fr](mailto:e.rousseau@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .team-card}
+::: {.card-body}
+### Dr. Lucie Fabre
+Maîtresse de conférences
+
+*Spécialité :* Humanités spatiales, cartographie numérique, SIG historiques
+
+✉️ [l.fabre@univ-paris8.fr](mailto:l.fabre@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .team-card}
+::: {.card-body}
+### Dr. Karim Benali
+Maître de conférences
+
+*Spécialité :* Game studies, cultures numériques, médias interactifs
+
+✉️ [k.benali@univ-paris8.fr](mailto:k.benali@univ-paris8.fr)
+:::
+:::
+:::
+
+:::
+
+---
+
+## Ingénieurs et personnels d'appui
+
+::: {.grid .team-grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .team-card}
+::: {.card-body}
+### Nadia Leroux
+**Ingénieure d'études**
+
+Gestion des projets numériques et coordination des plateformes pédagogiques du département.
+
+✉️ [n.leroux@univ-paris8.fr](mailto:n.leroux@univ-paris8.fr)
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .team-card}
+::: {.card-body}
+### Paul Girard
+**Ingénieur de recherche**
+
+Développement d'outils pour le traitement et la visualisation de données en sciences humaines.
+
+✉️ [p.girard@univ-paris8.fr](mailto:p.girard@univ-paris8.fr)
+:::
+:::
+:::
+
+:::
+
+---
+
+## Chercheurs associés et doctorants
+
+Le département accueille également des chercheurs associés et une vingtaine de doctorants travaillant à l'intersection des humanités et du numérique. Pour plus d'informations, [contactez-nous](contact.qmd).

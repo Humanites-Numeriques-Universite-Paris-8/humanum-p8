@@ -1,0 +1,29 @@
+---
+title: "Mentions légales"
+toc: false
+---
+
+## Éditeur du site
+
+**Université Paris 8 Vincennes-Saint-Denis**  
+2, rue de la Liberté  
+93526 Saint-Denis Cedex  
+Établissement public à caractère scientifique, culturel et professionnel (EPSCP)
+
+**Directeur de la publication :** La Présidente de l'Université Paris 8
+
+## Hébergement
+
+Ce site est hébergé par **GitHub Pages** (GitHub, Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA).
+
+## Propriété intellectuelle
+
+Le contenu de ce site est protégé par le droit d'auteur. Toute reproduction, même partielle, est soumise à l'autorisation préalable de l'Université Paris 8.
+
+## Données personnelles
+
+Conformément au RGPD et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification et de suppression des données vous concernant. Pour exercer ce droit, contactez : [dpo@univ-paris8.fr](mailto:dpo@univ-paris8.fr).
+
+## Cookies
+
+Ce site peut utiliser des cookies techniques nécessaires à son bon fonctionnement. Aucun cookie de traçage publicitaire n'est utilisé.

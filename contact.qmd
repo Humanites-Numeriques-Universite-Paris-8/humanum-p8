@@ -1,0 +1,65 @@
+---
+title: "Contact"
+subtitle: "Nous contacter"
+toc: false
+---
+
+## Coordonnées du département
+
+**Département Humanités Numériques**  
+Université Paris 8 Vincennes-Saint-Denis  
+2, rue de la Liberté  
+93526 Saint-Denis Cedex
+
+📧 **Email :** [humanum@univ-paris8.fr](mailto:humanum@univ-paris8.fr)  
+📞 **Téléphone :** +33 (0)1 49 40 XX XX  
+🌐 **Site :** [humanum-p8.fr](https://humanum-p8.fr)
+
+---
+
+## Nous trouver
+
+**Accès en transports en commun :**
+
+- 🚇 Métro ligne 13 — Station **Saint-Denis — Université**
+- 🚌 Bus 255, 356, 158, 167
+- 🚲 Vélib' — Station à 200m du campus
+
+**En voiture :** Parking disponible sur le campus (accès par le 2 rue de la Liberté). 
+
+---
+
+## Contacts spécifiques
+
+| Service | Contact |
+|---------|---------|
+| Scolarité (Licence) | [licence-hn@univ-paris8.fr](mailto:licence-hn@univ-paris8.fr) |
+| Scolarité (Master) | [master-hn@univ-paris8.fr](mailto:master-hn@univ-paris8.fr) |
+| Formation continue | [fc-hn@univ-paris8.fr](mailto:fc-hn@univ-paris8.fr) |
+| Partenariats & stages | [partenariats-hn@univ-paris8.fr](mailto:partenariats-hn@univ-paris8.fr) |
+| Presse & communication | [communication@univ-paris8.fr](mailto:communication@univ-paris8.fr) |
+
+---
+
+## Suivez-nous
+
+::: {.social-links}
+- [🐦 Twitter/X](https://twitter.com/HumanNum_Paris8){target="_blank"}
+- [📘 Facebook](https://facebook.com/HumanitesNumeriques.Paris8){target="_blank"}
+- [💼 LinkedIn](https://linkedin.com/company/humanites-numeriques-paris8){target="_blank"}
+- [🐙 GitHub](https://github.com/Humanites-Numeriques-Universite-Paris-8){target="_blank"}
+:::
+
+---
+
+## Horaires de la scolarité
+
+| Jour | Horaires |
+|------|----------|
+| Lundi | 9h–12h30 / 14h–17h |
+| Mardi | 9h–12h30 / 14h–17h |
+| Mercredi | 9h–12h30 |
+| Jeudi | 9h–12h30 / 14h–17h |
+| Vendredi | 9h–12h30 |
+
+*Hors périodes de vacances universitaires.*

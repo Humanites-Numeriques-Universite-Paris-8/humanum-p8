@@ -1,0 +1,129 @@
+---
+title: "Recherche"
+subtitle: "Projets et axes de recherche en humanités numériques"
+toc: true
+toc-title: "Sur cette page"
+---
+
+Le département Humanités Numériques est étroitement lié à des laboratoires de recherche de l'Université Paris 8 et à des réseaux nationaux et internationaux. Nos recherches s'inscrivent dans une démarche interdisciplinaire, au croisement des sciences humaines et sociales, de l'informatique et des arts numériques.
+
+---
+
+## Axes de recherche
+
+### 1. Édition numérique et patrimoine textuel
+
+Développement de méthodes et d'outils pour l'édition critique numérique, la numérisation et la valorisation des corpus patrimoniaux. Le groupe s'intéresse notamment aux standards d'encodage (TEI, EAD), aux entrepôts de données culturelles et aux pratiques éditoriales numériques.
+
+**Projets en cours :**
+
+- **CorpusHN** — Constitution et annotation de corpus littéraires francophones du XIXe siècle
+- **PatriNum** — Numérisation et diffusion de fonds d'archives régionaux
+- **CritEdit** — Plateforme d'édition critique collaborative
+
+---
+
+### 2. Humanités computationnelles
+
+Application des méthodes computationnelles aux sciences humaines : traitement automatique du langage naturel (TALN), analyse statistique de corpus, fouille de textes, visualisation de données.
+
+**Projets en cours :**
+
+- **LingComp** — Linguistique computationnelle et variation diatopique
+- **AnalyseDiscours** — Analyse automatique du discours politique et médiatique
+- **VizData** — Visualisation de données historiques et culturelles
+
+---
+
+### 3. Cultures et sociétés numériques
+
+Approches sociologiques, philosophiques et culturelles du numérique : usages sociaux du numérique, cultures participatives, économies de l'attention, intelligence artificielle et société.
+
+**Projets en cours :**
+
+- **NumSoc** — Sociologie des usages numériques en milieux populaires
+- **IAEthique** — Intelligence artificielle, biais algorithmiques et questions éthiques
+- **GameStudies** — Études des jeux vidéo et cultures ludiques
+
+---
+
+### 4. Arts et création numériques
+
+Pratiques artistiques numériques, nouvelles interfaces homme-machine, expériences immersives, art génératif et littératures numériques.
+
+**Projets en cours :**
+
+- **LitNum** — Littératures numériques : corpus, formes et enjeux esthétiques
+- **XR-Arts** — Réalité étendue (XR) et création artistique
+- **SonNum** — Pratiques sonores numériques et musiques électroniques
+
+---
+
+## Laboratoires associés
+
+Le département collabore avec plusieurs laboratoires de l'Université Paris 8 et de la ComUE Université Paris Lumières :
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+#### [LLCP](https://llcp.univ-paris8.fr){target="_blank"}
+**Laboratoire Logiques Contemporaines de la Philosophie**
+
+Recherches en philosophie contemporaine, philosophie du numérique et éthique de l'IA.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+#### [Vincennes à Saint-Denis](https://vincennesasaintdenis.univ-paris8.fr){target="_blank"}
+**Archives et mémoire de Paris 8**
+
+Valorisation du patrimoine documentaire et numérique de l'université.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+#### [CEMTI](https://cemti.univ-paris8.fr){target="_blank"}
+**Centre d'Études sur les Médias, les Technologies et l'Internationalisation**
+
+Recherches sur les médias numériques, les industries culturelles et les usages des technologies.
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+#### [Paragraphe](https://www.paragraphe.info){target="_blank"}
+**Laboratoire Paragraphe**
+
+Sciences de l'information et de la communication, humanités numériques et interaction humain-machine.
+:::
+:::
+:::
+
+:::
+
+---
+
+## Publications récentes
+
+- Dupont, M., & Martin, S. (2024). *Les humanités numériques à l'ère de l'IA générative*. Revue d'Humanités Numériques, 5(2), 12–34.
+- Legrand, C. (2023). *Édition critique et encodage TEI : retours d'expériences*. Digital Humanities Quarterly, 17(3).
+- Bernard, T., & Rousseau, É. (2023). *Analyse computationnelle du discours médiatique : méthodes et enjeux*. Langages, 230, 45–67.
+- Moreau, A. (2022). *Littératures numériques et interactivité : vers une poétique du code*. Fabula — Littérature, histoire, théorie, 23.
+
+---
+
+## Rejoindre nos recherches
+
+Vous souhaitez vous engager dans un projet de recherche ou effectuer une thèse en humanités numériques ?
+
+[Contacter l'équipe de recherche](contact.qmd){.btn .btn-primary}
