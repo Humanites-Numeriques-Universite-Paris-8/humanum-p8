@@ -13,7 +13,7 @@ website:
 
   navbar:
     background: primary
-    logo: images/logo-hnp8.png
+    logo: images/logoHumaNumP8rect.png
     logo-alt: "Logo Humanités Numériques Paris 8"
     title: false
     left:
