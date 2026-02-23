@@ -23,6 +23,10 @@
   color: var(--hn-gold) !important;
 }
 
+.navbar-logo{
+  max-height: 64px;
+}
+
 /* ── Hero banner ── */
 .hero-banner {
   background: linear-gradient(135deg, var(--hn-blue) 0%, #2c5282 60%, #2d6a4f 100%);

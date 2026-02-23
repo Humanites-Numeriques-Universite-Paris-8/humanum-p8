@@ -5,7 +5,7 @@ project:
 website:
   title: "Humanités Numériques — Paris 8"
   description: "Département Humanités Numériques de l'Université Paris 8 Vincennes-Saint-Denis"
-  favicon: images/favicon.svg
+  favicon: images/favicon.png
   site-url: https://humanum-p8.fr
   repo-url: https://github.com/Humanites-Numeriques-Universite-Paris-8/humanum-p8
   open-graph: true
@@ -13,7 +13,7 @@ website:
 
   navbar:
     background: primary
-    logo: images/logo.svg
+    logo: images/logo-hnp8.png
     logo-alt: "Logo Humanités Numériques Paris 8"
     title: false
     left:
@@ -35,7 +35,7 @@ website:
         aria-label: GitHub
 
   page-footer:
-    left: "© 2024 Département Humanités Numériques — Université Paris 8 Vincennes-Saint-Denis"
+    left: "© 2026 Département Humanités Numériques — Université Paris 8 Vincennes-Saint-Denis"
     right:
       - text: "Mentions légales"
         href: mentions-legales.qmd

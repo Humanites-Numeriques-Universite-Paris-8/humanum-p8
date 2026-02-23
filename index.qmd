@@ -1,113 +1,106 @@
 ---
-title: "Humanités Numériques"
-subtitle: "Université Paris 8 Vincennes-Saint-Denis"
 page-layout: full
 toc: false
+about:
+  template: marquee
+  image: images/bandeauHumaNumP8.png
 ---
 
-::: {.hero-banner}
-## Bienvenue au département<br>Humanités Numériques
 
-Le département **Humanités Numériques** de l'Université Paris 8 forme des étudiantes et étudiants aux croisements entre sciences humaines et sociales, informatique et arts numériques. Nous proposons des parcours de formation innovants et menons des recherches pionnières à l'intersection du numérique et des humanités.
+------------------------------------------------------------------------
 
-::: {.hero-buttons}
-[Découvrir nos formations](formation.qmd){.btn .btn-primary .btn-lg}
-[En savoir plus](recherche.qmd){.btn .btn-outline-light .btn-lg}
-:::
-:::
-
----
-
-::: {.grid .section-cards}
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
+:::::::::::: {.grid .section-cards}
+::::: {.g-col-12 .g-col-md-4}
+:::: {.card .h-100}
+::: card-body
 ### 🎓 Formations
+
 Des licences, masters et formations professionnelles alliant humanités, informatique et création numérique.
 
 [Voir les formations →](formation.qmd)
 :::
-:::
-:::
+::::
+:::::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
+::::: {.g-col-12 .g-col-md-4}
+:::: {.card .h-100}
+::: card-body
 ### 🔬 Recherche
+
 Des projets de recherche interdisciplinaires en humanités numériques, linguistique computationnelle, édition numérique et patrimoine.
 
 [Voir la recherche →](recherche.qmd)
 :::
-:::
-:::
+::::
+:::::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card .h-100}
-::: {.card-body}
+::::: {.g-col-12 .g-col-md-4}
+:::: {.card .h-100}
+::: card-body
 ### 👥 Équipe
+
 Une équipe pluridisciplinaire d'enseignants-chercheurs, d'ingénieurs et de chercheurs associés.
 
 [Rencontrer l'équipe →](equipe.qmd)
 :::
-:::
-:::
+::::
+:::::
+::::::::::::
 
-:::
-
----
+------------------------------------------------------------------------
 
 ## Le département en chiffres
 
-::: {.grid .stats-grid}
-
-::: {.g-col-6 .g-col-md-3 .stat-item}
-::: {.stat-number}
+::::::::::::::: {.grid .stats-grid}
+::::: {.g-col-6 .g-col-md-3 .stat-item}
+::: stat-number
 400+
 :::
-::: {.stat-label}
+
+::: stat-label
 Étudiants
 :::
-:::
+:::::
 
-::: {.g-col-6 .g-col-md-3 .stat-item}
-::: {.stat-number}
+::::: {.g-col-6 .g-col-md-3 .stat-item}
+::: stat-number
 30+
 :::
-::: {.stat-label}
+
+::: stat-label
 Enseignants-chercheurs
 :::
-:::
+:::::
 
-::: {.g-col-6 .g-col-md-3 .stat-item}
-::: {.stat-number}
+::::: {.g-col-6 .g-col-md-3 .stat-item}
+::: stat-number
 10+
 :::
-::: {.stat-label}
+
+::: stat-label
 Projets de recherche
 :::
-:::
+:::::
 
-::: {.g-col-6 .g-col-md-3 .stat-item}
-::: {.stat-number}
+::::: {.g-col-6 .g-col-md-3 .stat-item}
+::: stat-number
 1975
 :::
-::: {.stat-label}
+
+::: stat-label
 Fondée
 :::
-:::
+:::::
+:::::::::::::::
 
-:::
-
----
+------------------------------------------------------------------------
 
 ## Actualités récentes
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4}
-::: {.card .news-card}
-::: {.card-body}
+:::::::::::: grid
+::::: {.g-col-12 .g-col-md-4}
+:::: {.card .news-card}
+::: card-body
 **Colloque — Humanités Numériques 2024**
 
 *15–17 novembre 2024*
@@ -116,12 +109,12 @@ Le département organise un colloque international sur les nouvelles pratiques n
 
 [En savoir plus →](actualites.qmd)
 :::
-:::
-:::
+::::
+:::::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card .news-card}
-::: {.card-body}
+::::: {.g-col-12 .g-col-md-4}
+:::: {.card .news-card}
+::: card-body
 **Nouveau master — Intelligence Artificielle et Humanités**
 
 *Rentrée 2025*
@@ -130,12 +123,12 @@ Ouverture d'un nouveau parcours de master conjuguant IA et approches humanistes.
 
 [En savoir plus →](actualites.qmd)
 :::
-:::
-:::
+::::
+:::::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card .news-card}
-::: {.card-body}
+::::: {.g-col-12 .g-col-md-4}
+:::: {.card .news-card}
+::: card-body
 **Journée portes ouvertes**
 
 *8 février 2025*
@@ -144,9 +137,8 @@ Venez découvrir nos formations et rencontrer notre équipe pédagogique lors de
 
 [En savoir plus →](actualites.qmd)
 :::
-:::
-:::
-
-:::
+::::
+:::::
+::::::::::::
 
 [Toutes les actualités →](actualites.qmd){.btn .btn-outline-primary .mt-3}
